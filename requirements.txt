@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic_core
+alembic
+annotated-types
+anyio
+click
+greenlet
+asyncpg
+Mako
+idna
+MarkupSafe
+h11
+sniffio
+typing_extensions
